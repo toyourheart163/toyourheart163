@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My pypi project download total
+### My pypi project
 
 - [seeing](https://github.com/toyourheart163/seeing) Monitor and auto execute single script after modify ![PyPI Downloads](https://static.pepy.tech/badge/seeing)
 - [django-npick](https://github.com/toyourheart163/django-npick) Django Pick material Icon Widget ![PyPI Downloads](https://static.pepy.tech/badge/django-npick)
